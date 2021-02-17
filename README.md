@@ -1,5 +1,7 @@
 # SITE: Simple IT English 
 
+Python脚本跑出的常见英文词汇
+
 English is the only language of IT community.
 I know how pain to learn english and remember the english words as a non-native speaker. 
 Many talent engineers were kept out from community because lack of english skill.
